@@ -1,0 +1,226 @@
+${City1},${City2}
+Istanbu,Istanbu
+Istanbu,New Yor
+Istanbu,Londo
+Istanbu,Pari
+Istanbu,Toky
+Istanbu,Sydne
+Istanbu,Los Angele
+Istanbu,Chicag
+Istanbu,Beijin
+Istanbu,Duba
+Istanbu,Singapor
+Istanbu,Hong Kon
+Istanbu,Frankfur
+Istanbu,Madri
+Istanbu,Rom
+New Yor,Istanbu
+New Yor,New Yor
+New Yor,Londo
+New Yor,Pari
+New Yor,Toky
+New Yor,Sydne
+New Yor,Los Angele
+New Yor,Chicag
+New Yor,Beijin
+New Yor,Duba
+New Yor,Singapor
+New Yor,Hong Kon
+New Yor,Frankfur
+New Yor,Madri
+New Yor,Rom
+Londo,Istanbu
+Londo,New Yor
+Londo,Londo
+Londo,Pari
+Londo,Toky
+Londo,Sydne
+Londo,Los Angele
+Londo,Chicag
+Londo,Beijin
+Londo,Duba
+Londo,Singapor
+Londo,Hong Kon
+Londo,Frankfur
+Londo,Madri
+Londo,Rom
+Pari,Istanbu
+Pari,New Yor
+Pari,Londo
+Pari,Pari
+Pari,Toky
+Pari,Sydne
+Pari,Los Angele
+Pari,Chicag
+Pari,Beijin
+Pari,Duba
+Pari,Singapor
+Pari,Hong Kon
+Pari,Frankfur
+Pari,Madri
+Pari,Rom
+Toky,Istanbu
+Toky,New Yor
+Toky,Londo
+Toky,Pari
+Toky,Toky
+Toky,Sydne
+Toky,Los Angele
+Toky,Chicag
+Toky,Beijin
+Toky,Duba
+Toky,Singapor
+Toky,Hong Kon
+Toky,Frankfur
+Toky,Madri
+Toky,Rom
+Sydne,Istanbu
+Sydne,New Yor
+Sydne,Londo
+Sydne,Pari
+Sydne,Toky
+Sydne,Sydne
+Sydne,Los Angele
+Sydne,Chicag
+Sydne,Beijin
+Sydne,Duba
+Sydne,Singapor
+Sydne,Hong Kon
+Sydne,Frankfur
+Sydne,Madri
+Sydne,Rom
+Los Angele,Istanbu
+Los Angele,New Yor
+Los Angele,Londo
+Los Angele,Pari
+Los Angele,Toky
+Los Angele,Sydne
+Los Angele,Los Angele
+Los Angele,Chicag
+Los Angele,Beijin
+Los Angele,Duba
+Los Angele,Singapor
+Los Angele,Hong Kon
+Los Angele,Frankfur
+Los Angele,Madri
+Los Angele,Rom
+Chicag,Istanbu
+Chicag,New Yor
+Chicag,Londo
+Chicag,Pari
+Chicag,Toky
+Chicag,Sydne
+Chicag,Los Angele
+Chicag,Chicag
+Chicag,Beijin
+Chicag,Duba
+Chicag,Singapor
+Chicag,Hong Kon
+Chicag,Frankfur
+Chicag,Madri
+Chicag,Rom
+Beijin,Istanbu
+Beijin,New Yor
+Beijin,Londo
+Beijin,Pari
+Beijin,Toky
+Beijin,Sydne
+Beijin,Los Angele
+Beijin,Chicag
+Beijin,Beijin
+Beijin,Duba
+Beijin,Singapor
+Beijin,Hong Kon
+Beijin,Frankfur
+Beijin,Madri
+Beijin,Rom
+Duba,Istanbu
+Duba,New Yor
+Duba,Londo
+Duba,Pari
+Duba,Toky
+Duba,Sydne
+Duba,Los Angele
+Duba,Chicag
+Duba,Beijin
+Duba,Duba
+Duba,Singapor
+Duba,Hong Kon
+Duba,Frankfur
+Duba,Madri
+Duba,Rom
+Singapor,Istanbu
+Singapor,New Yor
+Singapor,Londo
+Singapor,Pari
+Singapor,Toky
+Singapor,Sydne
+Singapor,Los Angele
+Singapor,Chicag
+Singapor,Beijin
+Singapor,Duba
+Singapor,Singapor
+Singapor,Hong Kon
+Singapor,Frankfur
+Singapor,Madri
+Singapor,Rom
+Hong Kon,Istanbu
+Hong Kon,New Yor
+Hong Kon,Londo
+Hong Kon,Pari
+Hong Kon,Toky
+Hong Kon,Sydne
+Hong Kon,Los Angele
+Hong Kon,Chicag
+Hong Kon,Beijin
+Hong Kon,Duba
+Hong Kon,Singapor
+Hong Kon,Hong Kon
+Hong Kon,Frankfur
+Hong Kon,Madri
+Hong Kon,Rom
+Frankfur,Istanbu
+Frankfur,New Yor
+Frankfur,Londo
+Frankfur,Pari
+Frankfur,Toky
+Frankfur,Sydne
+Frankfur,Los Angele
+Frankfur,Chicag
+Frankfur,Beijin
+Frankfur,Duba
+Frankfur,Singapor
+Frankfur,Hong Kon
+Frankfur,Frankfur
+Frankfur,Madri
+Frankfur,Rom
+Madri,Istanbu
+Madri,New Yor
+Madri,Londo
+Madri,Pari
+Madri,Toky
+Madri,Sydne
+Madri,Los Angele
+Madri,Chicag
+Madri,Beijin
+Madri,Duba
+Madri,Singapor
+Madri,Hong Kon
+Madri,Frankfur
+Madri,Madri
+Madri,Rom
+Rom,Istanbu
+Rom,New Yor
+Rom,Londo
+Rom,Pari
+Rom,Toky
+Rom,Sydne
+Rom,Los Angele
+Rom,Chicag
+Rom,Beijin
+Rom,Duba
+Rom,Singapor
+Rom,Hong Kon
+Rom,Frankfur
+Rom,Madri
+Rom,Rom
