@@ -132,3 +132,4 @@ playwright*
 
 # IDE
 .idea
+interactive_console_output*
